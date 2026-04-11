@@ -2,6 +2,6 @@
 
 ## 🚀 A Complete Guide for Computer Science Students
 
-This repository is a structured collection of commonly used data structures, algorithms, and problem-solving techniques implemented in a simple and understandable way. It is designed to help strengthen core programming fundamentals and improve coding problem-solving skills.
+This repository is a structured collection of commonly used **data structures**, **algorithms**, and **problem-solving techniques** implemented in a simple and understandable way. It is designed to help strengthen core programming fundamentals and improve coding problem-solving skills.
 
 ---
