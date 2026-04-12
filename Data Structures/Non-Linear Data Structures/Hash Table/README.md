@@ -11,6 +11,9 @@ Access to data becomes very fast if we know the index of the desired data.
 ## How to Setup ?
 
 Step 1: Create a New Java Project
+
 Step 2: Open the src Folder
+
 Step 3: Create Packages (Folder -> HashTable)
+
 Step 4: Add Java files 
