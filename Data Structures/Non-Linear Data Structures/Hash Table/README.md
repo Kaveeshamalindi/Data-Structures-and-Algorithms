@@ -4,7 +4,11 @@
 In a hash table, data is stored in an **array**, with each data value assigned a unique **index**.
 Access to data becomes very fast if we know the index of the desired data.
 
-- Thus, it becomes a data structure in which **insertion** and **search** opertions are very fast irrespective of the size of the data.
+- Thus, it becomes a data structure in which **insertion** and **search** operations are very fast, irrespective of the size of the data.
+
+<p align="center">
+  <img src="Images/HashTable1.png" width="400">
+</p>
 
 ---
 
