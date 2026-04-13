@@ -6,4 +6,6 @@
 
 Examples from the real world:
 
-
+<p align="center">
+  <img src="Images/Queue1.jpg" width="400">
+</p>
