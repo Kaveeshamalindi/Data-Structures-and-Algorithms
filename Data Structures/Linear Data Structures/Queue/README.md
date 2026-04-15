@@ -16,3 +16,15 @@
 
 ---
 
+## Operations on Queue
+
+### enqueue()
+
+### dequeue()
+
+### peak()
+
+### isfull()
+
+### isempty()
+
