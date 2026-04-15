@@ -32,7 +32,7 @@ Each algorithm must have:
 
 **3. Body of the Algorithm**:
 
-**4. Post-condition**:**
+**4. Post-condition**:
 
 ### Commonly used algorithms:
 
