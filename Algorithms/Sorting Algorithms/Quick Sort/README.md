@@ -20,17 +20,23 @@ This step receives two smaller sub-arrays to be sorted.
 3. Merge them automatically (no extra merging needed, like Merge Sort)
 When the two sub-arrays are sorted, this stage recursively combines them.
 
+---
+
 ## 🔷 Step-by-Step Example for better understanding
 
 Let’s sort:
 
 👉 **```[10, 7, 8, 9, 1, 5]```**
 
+---
+
 ### ✅ Step 1: Choose Pivot
 
 Let’s pick last element as pivot:
 
 👉 Pivot = 5
+
+---
 
 ### ✅ Step 2: Partition (Very Important Step)
 
@@ -45,13 +51,17 @@ Greater than 5 → right
 
 Now:
 
-5 is already in correct position ✔️
+✔️ 5 is already in correct position 
+
+---
 
 ### ✅ Step 3: Sort Left Side
 
 Left: ```[1]```
 
 Already sorted.
+
+---
 
 ### ✅ Step 4: Sort Right Side
 
@@ -64,13 +74,17 @@ Partition:
 
 Now:
 
-9 fixed ✔️
+✔️ 9 fixed 
+
+---
 
 ### ✅ Step 5: Sort [7, 8]
 
 Pivot = 8
 
 👉 ```[7] 8```
+
+---
 
 ### 🎉 Final Sorted Array:
 
