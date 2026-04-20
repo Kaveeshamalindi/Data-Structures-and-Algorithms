@@ -19,12 +19,18 @@
 ## Operations on Queue
 
 ### enqueue()
+Add (store) an item to the queue.
 
 ### dequeue()
+Remove (access) an item from the queue.
+
+#### To use the queue efficiently, we need to check the status of the queue as well. 
 
 ### peak()
+Gets the element at the front of the queue without removing it.
 
 ### isfull()
+Check if the queue is full.
 
 ### isempty()
-
+Check if the queue is empty.
