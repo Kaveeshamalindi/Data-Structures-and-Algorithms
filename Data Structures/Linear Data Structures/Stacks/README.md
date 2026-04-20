@@ -6,17 +6,22 @@ A stack is an Abstract Data Type (ADT) commonly used in most programming languag
 
 ## Real-world Examples
 
-<p align="center"> <B>A deck of cards</B> </p>
+<div align="center">
 
-<p align="center">
-  <img src="Images/Stack1.jpg" width="200">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <b>A deck of cards</b><br>
+      <img src="Images/Stack1.jpg" width="200">
+    </td>
+    <td align="center">
+      <b>A pile of plates</b><br>
+      <img src="Images/Stack2.jpg" width="200">
+    </td>
+  </tr>
+</table>
 
-<p align="center"> <B>A pile of plates</B> </p>
-
-<p align="center">
-  <img src="Images/Stack2.jpg" width="200">
-</p>
+</div>
 
 ---
 
