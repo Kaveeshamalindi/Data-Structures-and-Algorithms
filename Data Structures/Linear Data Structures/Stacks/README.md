@@ -1,4 +1,4 @@
-<img width="754" height="158" alt="image" src="https://github.com/user-attachments/assets/0add5f5b-488e-41bc-a8ad-7612d95f97bf" /># Stack
+# Stack
 
 A stack is an Abstract Data Type (ADT) commonly used in most programming languages. 
 
