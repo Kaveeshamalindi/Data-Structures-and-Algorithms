@@ -55,7 +55,7 @@ Different problems require the use of different kinds of techniques to solve the
 **2. Greedy Algorithms**
 
 - This is not an algorithm, it is a **technique**.
-- 
+
 **3. Dynamic Programming**
 
 ---
