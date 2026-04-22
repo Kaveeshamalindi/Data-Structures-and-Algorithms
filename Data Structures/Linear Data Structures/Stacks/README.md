@@ -43,3 +43,7 @@ Check if the stack is full.
 
 ### isempty()
 Check if the stack is empty.
+When the stack is empty, the top becomes (-1).
+
+- When the stack is full, the push operation is done. It gives a **Stack Overflow** error.
+- When the stack is empty, the pop operation is done. It gives a **Stack underflow** error.
