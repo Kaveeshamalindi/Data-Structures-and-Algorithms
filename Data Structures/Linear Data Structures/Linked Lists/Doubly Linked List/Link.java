@@ -9,6 +9,7 @@ package doublyLinked;
  *
  * @author icbt1
  */
+//only stores data
 public class Link {
     
     public long dData; // data item
