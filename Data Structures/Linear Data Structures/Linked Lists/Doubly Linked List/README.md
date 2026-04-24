@@ -25,3 +25,8 @@ Delete
 
 Traverse
 
+```
+Link → holds data + pointers
+DoublyLinkedList → controls the whole list
+```
+
