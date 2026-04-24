@@ -9,6 +9,7 @@ package doublyLinked;
  *
  * @author icbt1
  */
+//controls logic
 public class DoublyLinkedList {
     
     private Link first; // ref to first item
