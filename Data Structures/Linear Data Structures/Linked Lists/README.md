@@ -1,5 +1,12 @@
 # Liked List
 
+- One of the most fundamental data structures
+- Store a collection of data items
+- It consists of a sequence of nodes, each containing two references (links) pointing to the next and/or previous nodes
+- Allows adding or deleting nodes at any point
+- Allows sequential access
+- Many other structures are based on a linked list
+
 ---
 ## Pointer
 
