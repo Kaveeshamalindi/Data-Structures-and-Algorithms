@@ -17,6 +17,8 @@ The use of data structures and algorithms is the **nuts and bolts** used by prog
 For example, when IoT and Mobile Development projects need less space and use processor power, etc. Therefore, data structures are used to manage this.
 - Get a better understand how to approach complex problems and systematically solve them.
 
+---
+
 ### Where is DSA needed ?
 
 - For managing a large amount of data (Social media networks, Search engines etc).
