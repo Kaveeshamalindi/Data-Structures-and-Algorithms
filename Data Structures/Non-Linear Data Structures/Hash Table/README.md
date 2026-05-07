@@ -21,3 +21,10 @@ Access to data becomes very fast if we know the index of the desired data.
 **Step 3**: Create Packages (Folder -> HashTable)
 
 **Step 4**: Add Java files 
+
+---
+
+## Hash Collision Resolution Techniques
+
+**1. Open Hashing (Separate Chaining)**
+**2. Closed Hashing (Open Addressing)**
