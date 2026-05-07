@@ -27,4 +27,5 @@ Access to data becomes very fast if we know the index of the desired data.
 ## Hash Collision Resolution Techniques
 
 **1. Open Hashing (Separate Chaining)**
+
 **2. Closed Hashing (Open Addressing)**
