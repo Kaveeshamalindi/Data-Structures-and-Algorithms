@@ -4,8 +4,10 @@ Searching is the process of finding a particular element in  the list. If the el
 
 There are mainly popular searching methods used in order to search for an item in the list.
 
-**1. Linear Search**
+## 1. Linear Search
 
-**2. Binary Search**
+Linear Search is a very simple algorithm.
 
+## 2. Binary Search
 
+Binary Search works efficiently on sorted lists.
