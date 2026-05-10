@@ -10,14 +10,14 @@
 
 ### Root Node
 
-## Sub Tree
+### Sub Tree
 
-## Leaf Node
+### Leaf Node
 
-## Path
+### Path
 
-## Ancestor Node
+### Ancestor Node
 
-## Degree
+### Degree
 
-## Level Number
+### Level Number
